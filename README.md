@@ -8,6 +8,11 @@
 
 # To do This!!
 
+- **For Your clone**
+  > npm i
+
+## **or for Start Project**
+
 - **[install Next.js](https://nextjs.org/docs/getting-started/installation)**
 
   > npx create-next-app@latest
