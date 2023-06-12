@@ -18,6 +18,8 @@ export function getSortedPostsData() {
     // Use gray-matter to parse the post metadata section
     const matterResult = matter(fileContents);
 
+    console.log('matterResult', matterResult.data)
+
     const blogPost: Blogpost = {
       id,
       title: matterResult.data.title,
