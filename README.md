@@ -1,34 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Continue at time...
 
-## Getting Started
+##### 2.59.13
 
-First, run the development server:
+- https://youtu.be/843nec-IvW0?t=10753
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="center">
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# To do This!!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **[install Next.js](https://nextjs.org/docs/getting-started/installation)**
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+  > npx create-next-app@latest
 
-## Learn More
+- **[install TailwindCSS](https://tailwindcss.com/docs/guides/nextjs)**
 
-To learn more about Next.js, take a look at the following resources:
+  > npm install -D tailwindcss postcss autoprefixer <br>
+  > npx tailwindcss init -p
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **[install React Icons](https://react-icons.github.io/react-icons)**
+  > npm install react-icons --save
