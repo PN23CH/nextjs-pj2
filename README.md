@@ -19,3 +19,6 @@
 
 - **[install React Icons](https://react-icons.github.io/react-icons)**
   > npm install react-icons --save
+
+- **[install Markdown](https://www.npmjs.com/package/gray-matter)**
+  > npm i gray-matter
